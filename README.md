@@ -32,3 +32,4 @@ go run main.go
 6. Press 'q' to terminate the program.
 
 ## Example
+![image](https://github.com/suleymantaspinar/tap-tempo/assets/24577781/45a19beb-c6fa-4a59-929c-3ec69a315bdc)
